@@ -1,38 +1,4 @@
-# The Pig and the Box
 
-<./book-description.txt>
-
-<./page-01.txt>
-<./page-02.txt>
-<./page-03.txt>
-<./page-04.txt>
-<./page-05.txt>
-<./page-06.txt>
-<./page-07.txt>
-<./page-08.txt>
-<./page-09.txt>
-<./page-10.txt>
-<./page-11.txt>
-<./page-12.txt>
-<./page-13.txt>
-<./page-14.txt>
-<./page-15.txt>
-<./page-16.txt>
-<./page-17.txt>
-<./page-18.txt>
-<./page-19.txt>
-<./page-20.txt>
-<./page-21.txt>
-<./page-22.txt>
-<./page-23.txt>
-<./page-24.txt>
-<./page-25.txt>
-<./page-26.txt>
-<./page-27.txt>
-<./page-28.txt>
-<./page-29.txt>
-<./page-30.txt>
-<./page-31.txt>
 
 ---
 current:
@@ -49,11 +15,14 @@ current:
       file: https://upload.wikimedia.org/wikipedia/commons/1/19/Pig_and_the_box.pdf
       license: CC0 Public domain
   file:
-    url: <./index.txt>
+    url: <./page-32.txt>
     license: CC0 Public domain
     contributors:
       - [Cerbere.Ace](cerbere.ace@gmail.com) 
-next:
+previous:
   page: 1
   file: <./page-01.txt>
+next:
+  page: 2
+  file: <./page-02.txt>
 ...

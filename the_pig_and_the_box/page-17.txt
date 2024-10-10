@@ -1,0 +1,29 @@
+![image-17](./page-17.jpg)
+
+---
+current:
+  subject: Children's Books
+  topic: sharing
+  title: The Pig and the Box
+  author: MCM (Michael Milligan)
+  page: 17
+  sources: 
+    main: 
+      url: https://web.archive.org/web/20140307131916/http://1889.ca/pigandbox
+      license: CC0 Public domain
+    alternative: 
+      url: https://en.wikisource.org/wiki/The_Pig_and_the_Box
+      file: https://upload.wikimedia.org/wikipedia/commons/1/19/Pig_and_the_box.pdf
+      license: CC0 Public domain
+  file:
+    url: <./page-17.txt>
+    license: CC0 Public domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+previous:
+  page: 16
+  file: <./page-16.txt>
+next:
+  page: 18
+  file: <./page-18.txt>
+...
