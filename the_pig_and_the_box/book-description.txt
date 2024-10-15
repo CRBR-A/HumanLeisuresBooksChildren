@@ -1,4 +1,4 @@
-
+When a pig named Pig discovers a magic box able to make twenty-seven copies of anything you throw in it, his life is turned upside down with excitement! But as word spreads about his new toy, he finds it's not as easy as it seems to be in charge of endless possibilities... And perhaps he overreacts to all the attention. Just a smidge. "The Pig and the Box" is a modern fable that teaches kids and adults alike that sharing is always a good idea.
 
 ---
 current:
@@ -15,14 +15,11 @@ current:
       file: https://upload.wikimedia.org/wikipedia/commons/1/19/Pig_and_the_box.pdf
       license: CC0 Public domain
   file:
-    url: <./page-32.txt>
+    url: <./book-description.txt>
     license: CC0 Public domain
     contributors:
       - [Cerbere.Ace](cerbere.ace@gmail.com) 
-previous:
+next:
   page: 1
   file: <./page-01.txt>
-next:
-  page: 2
-  file: <./page-02.txt>
 ...
